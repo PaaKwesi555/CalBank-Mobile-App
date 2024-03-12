@@ -1,0 +1,50 @@
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.CLF {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  color: white;
+  margin-left: 35px;
+  margin-top: 10px;
+}
+
+.login {
+  width: 230px;
+  height: 40px;
+  background-color: white;
+  border-radius: 20px;
+  color: orange;
+  border: none;
+}
+
+.sign-up {
+  width: 230px;
+  height: 40px;
+  background-color: white;
+  border-radius: 20px;
+  color: orange;
+  margin-top: 10px;
+  border: none;
+}
+
+.activate-account {
+  width: 230px;
+  height: 40px;
+  background-color: orange;
+  border-radius: 20px;
+  color: white;
+  margin-top: 10px;
+  border: none;
+}
+
+.content {
+  margin-left: 60px;
+  margin-top: 100px;
+}
+.cal-logo {
+  margin-top: 50px;
+}
